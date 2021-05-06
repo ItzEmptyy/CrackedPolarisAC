@@ -1,8 +1,3 @@
-# PolarisACCracked
-Polaris 6.3, deobfuscated cus the kid uses bytecode LOL
-I dont think it works, as i proberly fucked something up in removing auth but feel free to try it out and open a pull request, anyways take it and make a bypass for it LOL
-
-
 # PolarisAC V6.0 Cracked
 Polaris 6.0, deobfuscated cus the kid uses bytecode LOL. Anyways this was the last version "coded" by Neuss (He says he can code but he cant) before he sold the project to some stupid ass mf.
 Remember to setup the config, ive gone ahead and removed auth so it works when you set it up.
